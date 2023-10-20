@@ -16,7 +16,9 @@ Your API will be accessible at 'http://localhost:3000'. You can use tools like '
 
 **To access the defined routes, use the following URLs:**
 To retrieve a resource (GET): 'http://localhost:3000/resource/1'
+
 To create a resource (POST): 'http://localhost:3000/resource'
+
 To delete a resource (DELETE): 'http://localhost:3000/resource/1'
 
 **Keep Learning**
